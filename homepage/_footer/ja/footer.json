@@ -1,0 +1,32 @@
+{
+  "footer": {
+    "links": [
+      {
+        "display_text": "租借實體桌遊",
+        "url": "mailto:hi@ocf.tw"
+      },
+      {
+        "display_text": "後台管理",
+        "url": "/admin"
+      },
+      {
+        "display_text": "來玩線上桌遊！",
+        "url": "/resource/#線上桌遊一起玩"
+      }
+    ],
+    "logos": [
+      {
+        "alt_text": "open culture foundation",
+        "image_url": "/images/uploads/logo_standard-clearspace-white.png",
+        "title": "Initiator",
+        "link_url": "https://ocf.tw/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "title": "Sponsor",
+        "link_url": "https://www.freiheit.org/"
+      }
+    ]
+  }
+}
