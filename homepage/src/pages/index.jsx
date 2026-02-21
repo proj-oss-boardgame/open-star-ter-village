@@ -13,13 +13,14 @@ export const getStaticProps = async ({ locale }) => {
     title: {
       en: `OpenStarTerVillage`,
       'zh-Hant': `開源星手村`,
+      ja: `オープンスターターヴィレッジ`,
     },
     description: {
       en: `How can technology change the world? Play this board game and discover the answer for yourself!`,
       'zh-Hant': `科技怎麼改變世界？玩桌遊、就知道！`,
+      ja: `テクノロジーはどのように世界を変えるのか？ボードゲームで遊んで、自分で答えを見つけよう！`,
     },
   };
-
   const page = await getPage('index', locale);
 
   const layout = await getLayout(locale);

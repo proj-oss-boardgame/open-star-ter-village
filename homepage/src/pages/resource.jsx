@@ -8,12 +8,13 @@ import { getPage } from '../lib/service/getPage';
  * @type {import('next').GetStaticProps}
  */
 export const getStaticProps = async ({ locale }) => {
-  const headInfo = {
-    title: {
-      en: `OpenStarTerVillage - Resource`,
-      'zh-Hant': `開源星手村 - 資源頁`,
-    },
-  };
+    const headInfo = {
+      title: {
+        en: `OpenStarTerVillage - Resource`,
+        'zh-Hant': `開源星手村 - 資源頁`,
+        ja: `オープンスターターヴィレッジ - リソース`,
+      },
+    };
 
   const page = await getPage('resource', locale);
 

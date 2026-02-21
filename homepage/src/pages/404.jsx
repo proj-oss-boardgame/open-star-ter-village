@@ -20,6 +20,9 @@ export const getStaticProps = async ({ locale }) => {
     'zh-Hant': `
       有問題？找兔摩。<a href="https://forms.gle/t9j8dbiKUohny8PZ8">填寫表單</a>回報你找到的問題吧！
     `,
+    ja: `
+      バグ報告？TwoMoreに聞いてみよう。<a href="https://forms.gle/t9j8dbiKUohny8PZ8">フォームに記入</a>してバグを報告しよう！
+    `,
   };
 
   const layout = await getLayout(locale);
