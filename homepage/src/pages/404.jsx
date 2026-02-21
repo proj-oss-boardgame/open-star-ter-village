@@ -10,6 +10,7 @@ export const getStaticProps = async ({ locale }) => {
     title: {
       en: `OpenStarTerVillage - Page Not Found`,
       'zh-Hant': `開源星手村 - 找不到網頁`,
+      ja: `オープンスターターヴィレッジ - ページが見つかりません`,
     },
   };
 
