@@ -14,6 +14,7 @@ export const getStaticProps = async ({ locale }) => {
     title: {
       en: `OpenStarTerVillage - Card Introduction`,
       'zh-Hant': `開源星手村 - 卡片介紹`,
+      ja: `オープンスターターヴィレッジ - カード紹介`,
     },
   };
 

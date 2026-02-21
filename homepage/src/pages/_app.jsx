@@ -27,6 +27,11 @@ const siteDataDictionary = {
     description: `科技怎麼改變世界？玩桌遊、就知道！`,
     logo: `/images/logo.png`,
   },
+  ja: {
+    title: `オープンスターターヴィレッジ`,
+    description: `テクノロジーはどのように世界を変えるのか？ボードゲームで遊んで、自分で答えを見つけよう！`,
+    logo: `/images/logo.png`,
+  },
 };
 
 const getDefaultLayout = (page, pageProps, siteData) => {

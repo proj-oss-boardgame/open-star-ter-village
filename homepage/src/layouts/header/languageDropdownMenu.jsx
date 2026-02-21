@@ -4,6 +4,7 @@ import Link from 'next/link';
 const languageLabelDictionary = {
   en: 'English',
   'zh-Hant': '中文',
+  ja: '日本語',
 };
 
 const LanguageDropdownMenu = () => {
