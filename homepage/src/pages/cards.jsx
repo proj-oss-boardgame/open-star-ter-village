@@ -20,7 +20,7 @@ export const getStaticProps = async ({ locale }) => {
 
   const layout = await getLayout(locale);
 
-  const defaultLocale = 'zh-Hant';
+  const defaultLocale = 'ja';
   return {
     props: {
       headInfo: {
