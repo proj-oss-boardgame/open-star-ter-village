@@ -42,7 +42,7 @@ const getDefaultLayout = (page, pageProps, siteData) => {
   );
 };
 
-const defaultLocale = 'zh-Hant';
+const defaultLocale = 'ja';
 
 export default function App({ Component, pageProps, router }) {
   const siteData = siteDataDictionary[router.locale] ?? siteDataDictionary[defaultLocale];
