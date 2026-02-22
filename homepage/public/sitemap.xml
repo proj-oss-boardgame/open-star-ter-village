@@ -1,27 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://openstartervillage.ocf.tw/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/"/>
   </url>
   <url>
-    <loc>https://openstartervillage.ocf.tw/cards</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/cards</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/cards"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/cards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/cards"/>
   </url>
   <url>
-    <loc>https://openstartervillage.ocf.tw/resource</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/resource</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/resource"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/resource"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/resource"/>
   </url>
   <url>
-    <loc>https://openstartervillage.ocf.tw/en/</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/en/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/"/>
   </url>
   <url>
-    <loc>https://openstartervillage.ocf.tw/en/cards</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/en/cards</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/cards"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/cards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/cards"/>
   </url>
   <url>
-    <loc>https://openstartervillage.ocf.tw/en/resource</loc>
-    <lastmod>2023-09-26</lastmod>
+    <loc>https://ossquest.com/en/resource</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/resource"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/resource"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/resource"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/ja/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/ja/cards</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/cards"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/cards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/cards"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/ja/resource</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/resource"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/resource"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/resource"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/zh-Hant/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/zh-Hant/cards</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/cards"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/cards"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/cards"/>
+  </url>
+  <url>
+    <loc>https://ossquest.com/zh-Hant/resource</loc>
+    <lastmod>2026-02-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ossquest.com/resource"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ossquest.com/en/resource"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://ossquest.com/zh-Hant/resource"/>
   </url>
 </urlset>
