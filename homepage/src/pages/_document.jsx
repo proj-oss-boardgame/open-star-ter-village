@@ -3,7 +3,7 @@ import { GTM_ID } from '../lib/service/gtm';
 
 export default function Document({ locale }) {
   return (
-    <Html>
+    <Html lang={locale}>
       <Head>
         <meta charSet="utf-8" />
         <link
