@@ -20,6 +20,11 @@ export function fetchFooter(lang) {
       altText: logo.alt_text,
       linkUrl: logo.link_url,
     })),
+    supporters: (rawFooter.supporters ?? []).map((s) => ({
+      imageUrl: s.image_url,
+      altText: s.alt_text,
+      linkUrl: s.link_url,
+    })),
   };
   return footer;
 }

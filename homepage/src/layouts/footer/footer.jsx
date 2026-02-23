@@ -2,7 +2,7 @@ import SocialMedia from '../../components/socialMedia';
 import Logo from '../../components/logo';
 import FooterLinks from './footerLinks';
 
-const Footer = ({ siteData, links = [], logos = [] }) => {
+const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
   return (
     <div className="site-footer" id="footer">
       <div className="container footer-main">
@@ -21,6 +21,18 @@ const Footer = ({ siteData, links = [], logos = [] }) => {
             />
           ))}
         </div>
+        <div className="d-flex justify-content-center logos margin-2-percent">
+          {supporters.map((logo) => (
+            <Logo
+              key={logo.altText}
+              altText={logo.altText}
+              src={logo.imageUrl}
+              dimension={{ width: 163, height: 45 }}
+              link={logo.linkUrl}
+            />
+          ))}
+        </div>
+
       </div>
     </div>
   );

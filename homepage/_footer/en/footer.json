@@ -27,6 +27,28 @@
         "title": "Sponsor",
         "link_url": "https://www.freiheit.org/"
       }
+    ],
+    "supporters": [
+      {
+        "alt_text": "CFJ",
+        "image_url": "/images/campaignpage/logo_CFJ.png",
+        "link_url": "https://www.code4japan.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom1",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "link_url": "https://www.freiheit.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom2",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "link_url": "https://www.freiheit.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom3",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "link_url": "https://www.freiheit.org/"
+      }
     ]
   }
 }
