@@ -10,8 +10,14 @@ export const getStaticProps = async ({ locale }) => {
     title: {
       en: `OpenStarTerVillage - Page Not Found`,
       'zh-Hant': `開源星手村 - 找不到網頁`,
-      ja: `オープンスターターヴィレッジ - ページが見つかりません`,
+      ja: `オープンソースクエスト - ページが見つかりません`,
     },
+  };
+
+  const heading = {
+    en: `Page Not Found`,
+    'zh-Hant': `找不到網頁`,
+    ja: `ページが見つかりません`,
   };
 
   const desc = {
@@ -35,13 +41,14 @@ export const getStaticProps = async ({ locale }) => {
         title: headInfo.title[locale] ?? headInfo.title[defaultLocale],
         description: '',
       },
+      heading: heading[locale] ?? heading[defaultLocale],
       desc: desc[locale] ?? desc[defaultLocale],
       layout,
     },
   };
 };
 
-const NotFoundPage = ({ headInfo, desc }) => (
+const NotFoundPage = ({ headInfo, heading, desc }) => (
   <>
     <Head>
       <title>{headInfo.title}</title>
@@ -49,7 +56,7 @@ const NotFoundPage = ({ headInfo, desc }) => (
     </Head>
     <div className="site-container not-found-page">
       <div className="container text-center">
-        <h1>NOT FOUND</h1>
+        <h1>{heading}</h1>
         <p
           dangerouslySetInnerHTML={{
             __html: desc,
