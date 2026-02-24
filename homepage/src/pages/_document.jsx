@@ -20,6 +20,11 @@ export default function Document({ locale }) {
           type="text/css"
         />
         <link
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;600;700&display=swap"
+          rel="stylesheet"
+          type="text/css"
+        />
+        <link
           href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,400,400i,600,700,700i&display=swap"
           rel="stylesheet"
           type="text/css"
