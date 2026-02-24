@@ -1,9 +1,10 @@
 import { Html, Head, Main, NextScript } from 'next/document';
 import { GTM_ID } from '../lib/service/gtm';
 
-export default function Document({ locale }) {
+export default function Document(props) {
+  const locale = props.locale || props.defaultLocale || 'ja';
   return (
-    <Html>
+    <Html lang={locale}>
       <Head>
         <meta charSet="utf-8" />
         <link
