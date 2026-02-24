@@ -1,30 +1,53 @@
+
 {
   "footer": {
     "links": [
       {
-        "display_text": "租借實體桌遊",
+        "display_text": "ボードゲームをレンタル",
         "url": "mailto:hi@ocf.tw"
       },
       {
-        "display_text": "後台管理",
+        "display_text": "管理者",
         "url": "/admin"
       },
       {
-        "display_text": "來玩線上桌遊！",
-        "url": "/resource/#線上桌遊一起玩"
+        "display_text": "オンラインで遊ぼう！",
+        "url": "/resource/#オンライン"
       }
     ],
     "logos": [
       {
         "alt_text": "open culture foundation",
         "image_url": "/images/uploads/logo_standard-clearspace-white.png",
-        "title": "Initiator",
+        "title": "主催",
         "link_url": "https://ocf.tw/"
       },
       {
         "alt_text": "Friedrich Naumann Foundation for Freedom",
         "image_url": "/images/uploads/logo__fnf.png",
-        "title": "Sponsor",
+        "title": "スポンサー",
+        "link_url": "https://www.freiheit.org/"
+      }
+    ],
+    "supporters": [
+      {
+        "alt_text": "CFJ",
+        "image_url": "/images/campaignpage/logo_CFJ.png",
+        "link_url": "https://www.code4japan.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom1",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "link_url": "https://www.freiheit.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom2",
+        "image_url": "/images/uploads/logo__fnf.png",
+        "link_url": "https://www.freiheit.org/"
+      },
+      {
+        "alt_text": "Friedrich Naumann Foundation for Freedom3",
+        "image_url": "/images/uploads/logo__fnf.png",
         "link_url": "https://www.freiheit.org/"
       }
     ]
