@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ossquest.com/en/</loc>
+    <loc>https://ossquest.com/zh-Hant/</loc>
     <lastmod>2026-02-22</lastmod>
   </url>
   <url>
-    <loc>https://ossquest.com/en/cards</loc>
+    <loc>https://ossquest.com/zh-Hant/cards</loc>
     <lastmod>2026-02-22</lastmod>
   </url>
   <url>
-    <loc>https://ossquest.com/en/resource</loc>
+    <loc>https://ossquest.com/zh-Hant/resource</loc>
     <lastmod>2026-02-22</lastmod>
   </url>
 </urlset>

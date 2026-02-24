@@ -6,4 +6,4 @@ Disallow: /admin
 User-agent: *
 Allow: /
 
-Sitemap: https://openstartervillage.ocf.tw/sitemap.xml
+Sitemap: https://ossquest.com/sitemap.xml
