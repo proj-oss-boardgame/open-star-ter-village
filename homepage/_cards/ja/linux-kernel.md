@@ -1,7 +1,7 @@
 ---
 image: ""
 title: Linux Kernel
-description: 開源的類 Unix 作業系統核心。
+description: オープンソースの Unix 系オペレーティングシステムのカーネル。
 draft: false
 type: project
 tags:
@@ -9,6 +9,8 @@ tags:
   - engineer
   - advance
 ---
-Linux Kernel 是一種開源的類 Unix 作業系統核心。於 1991 年由芬蘭駭客 Linus Torvalds 開發，並啟動 Linux 核心計劃，迄今已接受逾 12000 名程式設計師對此專案做出貢獻。
+Linux Kernel は、1991 年に Linus Torvalds によって開発されたオープンソースの Unix 系 OS カーネルです。
 
-- [Linux Kernel 官方網站](https://www.kernel.org/)
+世界中の 12,000 人以上の開発者が貢献しており、現在の多くの Linux ディストリビューションの中核を担っています。
+
+- [Linux Kernel 公式サイト](https://www.kernel.org/)

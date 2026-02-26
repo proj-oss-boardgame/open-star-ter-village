@@ -1,7 +1,6 @@
 ---
-image: ""
 title: Firefox
-description: 自由及開放原始碼的網頁瀏覽器
+description: 自由かつオープンソースのウェブブラウザ。
 draft: false
 type: project
 tags:
@@ -11,6 +10,9 @@ tags:
   - engineer
   - advance
 ---
-Mozilla Firefox 是一個自由及開放原始碼的網頁瀏覽器，由 Mozilla 基金會及其子公司於 2004 年開發並釋出，其前身為 2002 年由 Mozilla 社群成員建立的獨立瀏覽器「Phoenix」。
 
-- [Mozilla Firefox 官方網站](https://www.mozilla.org/zh-TW/firefox/)
+Mozilla Firefox は、Mozilla Foundation によって開発・公開された自由かつオープンソースのウェブブラウザです。
+
+前身は 2002 年に開発された「Phoenix」で、2004 年に正式リリースされました。
+
+- [Mozilla Firefox 公式サイト](https://www.mozilla.org/firefox/)

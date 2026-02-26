@@ -1,7 +1,7 @@
 ---
 image: ""
 title: LibreOffice
-description: 一套自由及開放原始碼的辦公軟體。
+description: 自由かつオープンソースのオフィスソフトウェア一式。
 draft: false
 type: project
 tags:
@@ -11,6 +11,9 @@ tags:
   - engineer
   - advance
 ---
-LibreOffice 是一套自由及開放原始碼的辦公軟體，初始版本於 2010 年由文件基金會 (The Document Foundation) 開發。內容包含文書處理、試算表、簡報製作、繪圖及流程圖表、資料庫管理、數學編輯等，並支援開放檔案 (OpenDocument/ODF) 格式。
+LibreOffice は The Document Foundation によって開発されたオープンソースのオフィスソフトです。
 
-- [LibreOffice 官方網站](https://zh-tw.libreoffice.org/)
+文書作成、表計算、プレゼンテーション、データベース管理、数式編集などを含み、OpenDocument（ODF）形式をサポートしています。
+
+
+- [LibreOffice 公式サイト](https://zh-tw.libreoffice.org/)

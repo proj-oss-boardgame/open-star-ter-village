@@ -1,7 +1,7 @@
 ---
 image: ""
 title: OPass
-description: 整合各大臺灣開源資訊社群研討會的報到平台 APP
+description: 台湾のオープンソースコミュニティイベントを統合する受付プラットフォームアプリ。
 draft: false
 type: project
 tags:
@@ -10,6 +10,8 @@ tags:
   - engineer
   - basic
 ---
-OPass 原本是為了台灣開源資訊社群研討會所開發的報到 App，在 SITCON 學生計算機年會及 COSCUP 開源人年會已多次使用，為了各活動的使用需求便啟動了整合計畫，成為了 OPass 大平台來繼續提供給大家最好的報到體驗，並提供第一手的年會資訊。
+OPass は、台湾のオープンソースコミュニティカンファレンス向けに開発された受付アプリです。
 
-- [OPass 官方網站](https://opass.app/)
+SITCON や COSCUP などで利用され、現在は統合プラットフォームとして発展し、受付機能とイベント情報提供を行っています。
+
+- [OPass 公式サイト](https://opass.app/)
