@@ -1,7 +1,7 @@
 ---
 image: ""
 title: Public Money Public Code
-description: 「公費建制政府系統以自由開源軟體授權釋出」的倡議。
+description: 公費で構築された政府システムを自由・オープンソースライセンスで公開すべきとする提言。
 draft: false
 type: project
 tags:
@@ -11,6 +11,8 @@ tags:
   - writer
   - advocator
 ---
-由「歐洲自由軟體協會（Free Software Foundation Europe，即 FSFE）」於 2017 年提出的倡議，主張以人民納稅錢建制的政府系統須使用自由開源軟體授權釋出，以達到不重複開發、便於協作，讓全民皆能使用。此倡議公開信呼籲大眾加入聯署，期望能為各地區採用。
+Public Money Public Code は、2017 年に欧州自由ソフトウェア財団（FSFE）が提唱したキャンペーンです。
+
+税金で開発された政府システムはオープンソースとして公開すべきであると主張し、重複開発の防止と公共利益の最大化を目指しています。
 
 [FSFE 發起的連署網頁](https://publiccode.eu/zh-tw/)

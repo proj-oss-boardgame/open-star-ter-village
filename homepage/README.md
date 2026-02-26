@@ -55,7 +55,7 @@
 
 若您對網站開發有興趣，歡迎參考以下資訊。
 
-- [官方網站進度規劃](https://github.com/ocftw/open-star-ter-village/wiki/Homepage-Roadmap)
+- [公式サイト進度規劃](https://github.com/ocftw/open-star-ter-village/wiki/Homepage-Roadmap)
 
 #### 開發前需了解的事項
 

@@ -1,7 +1,6 @@
 ---
-image: ""
 title: Democracy OS
-description: 民主參與系統，可討論政策、模擬投票、進行參與式預算等
+description: 政策討論、模擬投票、参加型予算などを行える市民参加型民主主義システム。
 draft: false
 type: project
 tags:
@@ -11,6 +10,9 @@ tags:
   - engineer
   - basic
 ---
-Democracy OS 是由阿根廷非政府組織 Democracia En Red 開發的應用程式，一個希望實現「民主系統民主化 (Democratize democracy)」的民主參與系統，透過此應用程式，使用者能夠進行參與式預算、討論政策、模擬投票、對特定政策表達意見，以及找到更多與政策相關的資訊。
 
-- [Democracy OS](https://democraciaos.org/es/)
+Democracy OS は、アルゼンチンの NGO「Democracia En Red」によって開発されたアプリケーションです。
+
+「民主主義を民主化する（Democratize democracy）」ことを理念とし、市民が政策を議論し、模擬投票や参加型予算に参加できる仕組みを提供しています。
+
+- [Democracy OS](https://democraciaos.org/)
