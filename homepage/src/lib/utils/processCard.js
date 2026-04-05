@@ -45,9 +45,7 @@ export const processCard = (card, cards) => {
   // project card
   if (data.type === 'project') {
     const color = {};
-    const mainTag = data.tags.find((tag) =>
-      ['open gov', 'open data', 'open source'].includes(tag),
-    );
+    const mainTag = data.category
     switch (mainTag) {
       case 'open gov':
         color.background = '#efac49';
@@ -64,6 +62,7 @@ export const processCard = (card, cards) => {
 
     const tags = data.tags || [];
     const jobCards = cards.filter((card) => card.data.type === 'job');
+    
     const avatarList = tags
       .map((tag) => {
         const jobCard = jobCards.find((jobCard) =>
