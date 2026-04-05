@@ -1,4 +1,5 @@
 [build]
+  base = "homepage"
   command = "next build"
   publish = ".next"
 
