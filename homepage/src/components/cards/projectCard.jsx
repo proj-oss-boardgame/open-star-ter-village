@@ -32,6 +32,15 @@ const ProjectCard = ({ card }) => (
         <ParseMarkdownAndHtml markdown={true}>
           {card.content}
         </ParseMarkdownAndHtml>
+        {card.data.links?.length > 0 && (
+          <div className="d-flex flex-wrap gap-2 mt-2">
+            {card.data.links.map((link, i) => (
+              <a key={i} href={link.url} target="_blank" rel="noopener noreferrer">
+                🔗 {link.text}
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </div>
   </div>

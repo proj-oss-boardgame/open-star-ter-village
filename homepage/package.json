@@ -12,7 +12,8 @@
     "build:static": "next build && node scripts/assemble-static.mjs",
     "start": "next start",
     "lint": "yarn prettier --check . && next lint",
-    "lint:fix": "yarn prettier --write . && next lint --fix"
+    "lint:fix": "yarn prettier --write . && next lint --fix",
+    "figma:sync": "node figma-sync.mjs"
   },
   "repository": {
     "type": "git",

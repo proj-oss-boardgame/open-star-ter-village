@@ -1,0 +1,830 @@
+[
+  {
+    "title": "デモクラシーOS",
+    "description": "政策討論・投票シミュレーション・参加型予算編成が行える民主参加プラットフォーム。",
+    "content": "アルゼンチンのNGO「Democracia En Red」に\nよって開発されたDemocracy OSは、「民主主義\nの民主化」を目指す民主的参加のためのアプリで\nある。 このアプリでは、ユーザーが参加型の予算\n編成、政策討議、投票シミュレーションに参加し\nたり、特定の政策について意見を表明したり、追\n加情報を取得したりすることができる。",
+    "links": [
+      {
+        "text": "デモクラシーOS",
+        "url": "https://democraciaos.org/es/"
+      },
+      {
+        "text": "ウェブサイト",
+        "url": "https://democraciaos.org/es/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "civil servants",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "vTaiwan",
+    "description": "台湾の法律や政策について市民が意見を投稿し、政府がそれらを集約するためのプラットフォーム。",
+    "content": "vTaiwanは、国民が台湾の法律について意見を表\n明するためのプラットフォームである。 立法・行\n政機関は、このプラットフォームに記録された意\n見を集約し、政策の議論に含め、政策がどのよう\nに意見を反映しているか、あるいはなぜ国民の意\n見が考慮されなかったかを述べることが義務付け\nられている。 このプラットフォームは、政策の利\n害関係者が互いにオープンに議論し、異なる視点\nを提示できるオンラインのオープンスペースを提\n供することを目的としている。 このプラットフォ\nームは、トピックに関するより深い議論を促し、\n市民社会と政府の相互理解を促進する。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://vtaiwan.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "legal",
+      "civil servants",
+      "writer",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Nullfullのフードマップ",
+    "description": "オープンデータを用いて、韓国の国会議員が公費でよく利用しているレストランを特定する仕組み。",
+    "content": "Nullfullのフードマップは、オープンデータを利用\nして、韓国の国会議員が国費を使って利用する可\n能性の高いレストランを明らかにしている。 韓国\nの情報公開法では、国民は議員に対して予算や献\n金に関するデータの公開を求めることができる\nが、これらの情報は国会によって画像ファイルと\nして公開されることが多く、実際に利用すること\nは難しい。 Nullfullはこの画像データをハッカソ\nンでgoogleスプレッドシートに入力し、食に関す\nるデータを使って議員の行きつけのレストランマ\nップを作成した。 ほとんどのレストランは豪華で\n高価だった。 Nullfullはその後、政府が公金をい\nかに軽率に使っているかをより多くの人々に知っ\nてもらうため、これらのレストランの多くを訪\nれ、料理の写真を撮って、韓国の人々に自分たち\nのお金がどこに使われているかを知ってもらうこ\nとにした。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://nullfull.kr/"
+      },
+      {
+        "text": "台湾における関連議論",
+        "url": "https://g0v.hackmd.io/y_O_IpKrRxm6pG5rlO4enw"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "公共政策のためのデジタル参加型プ\nラットフォーム",
+    "description": "市民が公共政策に関する提案を提出し、行政機関が回答を返すプラットフォーム。",
+    "content": "2015年、台湾の国家発展委員会はJoin.gov.tw（デジタル公共政策参加プラットフォーム）を立ち上げた。 このプラットフォームを通じて、市民は自分の関心のある政策や問題について提案を提出す\nることができる。 その提案が60日以内に5000人\nの支持者の「賛成」を得れば、担当当局は2ヶ月\n以内に回答することが求められる。 こうしてこの\nプラットフォームは、市民と政府との双方向のコ\nミュニケーション・チャンネルとなっている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://join.gov.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "legal",
+      "civil servants",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "OGPで台湾を知ろう",
+    "description": "OGP（Open Government Partnership）は、「透明性・参加・責任・包摂」を実現するための国際的なオープンガバメント基準を推進する組織。",
+    "content": "オープンガバメントパートナーシップ（OGP）\nは、透明性、参加、責任、寛容を提唱するために\n2011年に設立された。 台湾はOGPに加盟していま\nせんが、立法院と行政院はそれぞれOGPのガイド\nラインに従って「開かれた議会行動計画」と「開\nかれた政府国家行動計画」を策定しています。",
+    "links": [
+      {
+        "text": "OGPウェブサイト",
+        "url": "https://www.opengovpartnership.org/"
+      },
+      {
+        "text": "台湾の開かれた議会",
+        "url": "https://www.ly.gov.tw/Pages/List.aspx"
+      },
+      {
+        "text": "台湾の開かれた政府\"",
+        "url": "https://www.ndc.gov.tw/Content_List.aspx"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "marketing",
+      "legal",
+      "writer",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "台湾賄賂マップ",
+    "description": "確認された贈収賄事例を地図上に表示し、自分の一票がいくらで取引されたかを可視化するシステム。",
+    "content": "PTTのネットユーザーによって開発された台湾賄\n賂マップは、確認された賄賂ケースのオープンデ\nータとグーグルマップを組み合わせて作成され\nた。 何人かのネチズンによって照合された4つの\n地図は、後に別のネチズンであるKiangによって\n編集された。 彼の協力により、賄賂が贈られた場\n所、賄賂の額、賄賂の額が明らかになった。 この\n地図によって、ユーザーは自分の投票がどれだけ\nの金額に値するかを知ることができる。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://kiang.github.io/bribes_map/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "legal",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "市民裁判官",
+    "description": "社会的期待と法的専門知識を組み合わせ、市民が裁判の判断プロセスに関与できるシステム。",
+    "content": "台湾の行政院と立法院に開放性がもたらされるだ\nけでなく、法院も市民参加に開放されるようにな\nる！ 2020年、立法院は「市民裁判官法」を可決\nし、2023年に施行した。 同法によると、同法に\n記載された事件の合議裁判所は、6人の市民裁判\n官と3人の裁判官で構成される。 要件を満たした\n市民が無作為に選ばれ、裁判手続きと最終判決の\n形成に参加する。 この法律は、裁判官の法的専門\n知識によって司法制度の公平性を促進し、社会正\n義の達成方法に関する国民の期待を考慮すること\nを目的としている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://social.judicial.gov.tw/CJlandingpage/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "legal",
+      "civil servants",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "各物件の住宅取引実勢価格登録",
+    "description": "住宅市場の透明性を高めるため、すべての住宅の実際の取引価格を公開する仕組み。",
+    "content": "これまで、実際の住宅価格は、各戸番号ではな\nく、30戸の一括番号で構成されるエリアごとの価\n格に基づいてのみ明らかにされていた。 住宅市場\nの透明性を高めるため、内政部は「実勢価格2.0」\n改正案を可決し、成立した各取引の価格、家屋番\n号、区画番号を明らかにし、将来の購入者に総合\n的な情報を提供することになった。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://lvr.land.moi.gov.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "designer",
+      "writer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "政府のオープンデータプラットフォ\nーム",
+    "description": "各行政機関が公開するオープンデータを一元的に収集・提供するプラットフォーム。",
+    "content": "市民が政府を監視し、オープンデータを活用でき\nるようにするため、台湾の行政院は2012年にオー\nプンデータの推進を開始した。 一部の特殊なケー\nスを除き、ほとんどのオープンデータを無料で利\n用することができる。 こうして、市民や経済、そ\nの他の種類のオープンガバメントデータをまとめ\nたプラットフォームが作られ、データは様々なフ\nォーマットで公開され、市民が利用しやすくなっ\nた。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://data.gov.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "政治献金法改正イニシアティブ",
+    "description": "クラウドソーシングを活用して政治献金の透明性を高める取り組み。",
+    "content": "2014年、g0vコミュニティの参加者であるロニ\nー・ワンは、クラウドソーシングモデルを用い、\n他の市民団体と共同で「開かれた政治献金」プロ\nジェクトを立ち上げ、法改正による政治献金の透\n明化を目指した。 数回の試みの後、この活動はし\nばらく沈黙した。 2017年、ミラーメディアはオー\nプンデータに関する報告書を作成し、多くの注目\nを集め、この問題が再び可視化されるようになっ\nた。 そしてついに2018年、政治献金法が改正さ\nれ、それ以来、すべての候補者に財務報告書の全\n文をオンラインで公開することが義務づけられ\nた。",
+    "links": [
+      {
+        "text": "クラウドソーシングに参加する",
+        "url": "https://campaign-finance.g0v.ctiml.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [],
+    "image": ""
+  },
+  {
+    "title": "公的代表投票ガイド",
+    "description": "候補者に関するデータを集約し、有権者が投票前に十分な情報を得られるよう支援する仕組み。",
+    "content": "市民が投票する前に、より多くの情報を提供する\nために、ジョニー・ローは2013年に「議員投票ガ\nイド」と「市議会議員・田舎議員投票ガイド」の\n制作を開始し、2018年までの各選挙区における候\n補者の法律案、投票記録、公聴会への参加などの\nデータをまとめた。 2019年には、g0vのハッカー\nグループがこのアイデアを発展させ、「2019年選\n挙用投票ガイド」を作成し、利用者の作業フロー\nとインターフェースを改善し、より多くの情報を\n提供した。",
+    "links": [
+      {
+        "text": "有権者ガイドの議論",
+        "url": "https://g0v.hackmd.io/s/HyBzFBOqH"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "designer",
+      "civil servants",
+      "writer",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "国会ライブストリーミング",
+    "description": "国会審議をライブ配信し、市民の知る権利を保障する取り組み。",
+    "content": "2009年、台湾の市民社会団体は、国民が国会での\n立法審議を監視・監督できるようにすることを求\nめ始めた。 立法院は長年の試行と議論を経て、\n2016年に独自のチャンネル「国会TV」を設立し、\n立法手続きがより透明化されることを期待してい\nる。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.parliamentarytv.org.tw/milestones.html"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "civil servants",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "データオープナー",
+    "description": "政府データを容易に検索・発見できるようにするシステム。",
+    "content": "政府のデータが公開されてから何年も経過してい\nても、市民がデータにアクセスできないことはよ\nくある。 ボランティアチームによって作成された\n「データ・オープナー」ツールは、政府によって\nデータ要求が拒否される最も一般的な理由を分析\nし、申請プロセスをモジュール化する。 そうする\nことで、このデータ・ヘルパーは、政府がオープ\nンデータの重要性を理解するのを助けると同時\nに、申請を容易にする。",
+    "links": [
+      {
+        "text": "フェイスブックファンページ",
+        "url": "https://www.facebook.com/profile.php"
+      }
+    ],
+    "type": "project",
+    "category": "open gov",
+    "tags": [
+      "designer",
+      "civil servants",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "コモンボイス",
+    "description": "コンピュータに正しい発音で話す方法を教えるた\nめに、あらゆる言語の話者に声を提供してもらう\nデータベース。",
+    "content": "Common VoiceはMozillaによって開発されたオー\nプンソースプロジェクトです。 世界中の貢献者に\nよって提供された録音は、CC0の下でパブリック\nドメインとして公開されています。 このフリーで\nオープンな音声データベースにはあらゆる言語が\n含まれており、誰もが音声関連技術を利用・開発\nすることができます。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://commonvoice.mozilla.org/zh-TW"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "designer",
+      "writer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "マイバスを探す",
+    "description": "市政府が提供するオープンデータを利用したこの\nアプリは、バスやその他の公共交通機関の路線図\nを表示し、現在どこを走っているかを追跡する。",
+    "content": "そのプロトタイプが「Bus Tracker Taipei」であ\nる。 台北市と新北市政府のデータと、台湾の交通\n通信省が設立した公共交通データ交換プラットフ\nォームにより、このアプリは、バスのルート、バ\nスの到着時間、空港バス、台湾新幹線、台湾鉄\n道、YouBikeなどの公共交通機関の乗り換え情報\nを見ることができる。 これは2013年以降、政府の\nオープンデータが一般に利用されるようになった\n最良の例のひとつである。",
+    "links": [
+      {
+        "text": "Google Playでダウンロード",
+        "url": "https://play.google.com/store/apps/details"
+      },
+      {
+        "text": "App Storeでダウンロード",
+        "url": "https://apps.apple.com/tw/app/%E5%8F%B0%E5%8C%97%E7%AD%89%E5%85%AC%E8%BB%8A-%E5%85%AC%E8%BB%8A%E8%B7%AF%E7%B7%9A-%E6%8D%B7%E9%81%8B-%E5%8F%B0%E9%90%B5%E5%8B%95%E6%85%8B%E6%9F%A5%E8%A9%A2/id511832182"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "designer",
+      "engineer",
+      "civil servants"
+    ],
+    "image": ""
+  },
+  {
+    "title": "マスクマップ",
+    "description": "パンデミック予防政策に対応し、全医療機関のマ\nスク在庫データをまとめたアプリ",
+    "content": "このアプリは台湾のオープンソースコミュニティ\n「g0v」のプロジェクトのひとつ。 2020年に始ま\nったコロナウィルスのパンデミックに対応するた\nめ、台湾政府はパニック買いを防ぐために名前ベ\nースのマスク配給政策を採用した。 しかし、どの\n薬局にまだ十分なマスクの在庫があるのか、人々\nは知らなかった。 そこで、g0vのメンバーは、政\n府が契約している薬局のリアルタイムのマスク在\n庫データ、マスクを販売している薬局やコンビニ\nエンスストアの場所など、必要な情報をgoogle\nmapと連携させることで、台湾全土のマスク在庫\n量をリアルタイムで知ることができるアプリを開\n発しました。",
+    "links": [
+      {
+        "text": "類似プロジェクト一覧",
+        "url": "https://g0v.hackmd.io/@kiang/mask-info"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "civil servants",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "台湾の国宝",
+    "description": "米国に保管されている台湾の歴史資料を撮影し、\n一般公開するボランティア支援プロジェクト",
+    "content": "g0vコミュニティが主催する「Civic Technology\nStartup Grant」を受賞したプロジェクトのひと\nつ。 写真撮影ソフトとオンライン・データベー\nス・システムにより、このプロジェクトはボラン\nティアを募り、米国公文書館に行って台湾関連の\n歴史的資料を撮影する。 撮影された資料は、オン\nラインで公開され、無料で利用することができ\nる。 2020年3月現在、デジタル化されたファイル\nの累積数は20万件を超えている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.nationaltreasure.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "writer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "権威主義国家にオープンデータ法の\n採用を促すために",
+    "description": "権威主義的な政府に対し、政府が収集しているデ\nータを公開し、国民がそれを調査・活用できるよ\nうにするよう促すこと。",
+    "content": "このタスクのためにプレーヤーが利用できるリソ\nースは以下の通りだ。\"アクセスが容易で、機械で\n読み取り可能で、オープンなフォーマットで、オ\nープンライセンスまたはオープンな利用方法の下\nで公開される \"というオープン性の4原則に基づ\nき、政府が法律を制定することを要求するような\n法律。 政府省庁は、アプリケーションの付加価値\nを効果的に高めるために、一般市民や企業向けに\n内部情報を公開すべきである。 例えば、台湾の内\n務省が公開している地形図は、通信信号と地形の\n関係を示す地図を描くのに使われている。",
+    "links": [
+      {
+        "text": "参考",
+        "url": "https://ocf.tw/p/issues/10YrsOpenDataLegalization/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "legal",
+      "civil servants",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "スキャンして購入",
+    "description": "このアプリをスキャンするだけで、製品の製造元\nが環境保護規制に違反した記録があるかどうかを\n確認できる。",
+    "content": "\"タウ・ビング \"プロジェクトから開発されたこの\nアプリは、環境データの公開を容易にし、企業の\nガスや液体廃棄物、その他の汚染に関するデータ\nを追跡し、違法排出の記録があるかどうかを検出\nする。 その目的は、どの企業が法律を破っている\nのかについて国民の意識を高め、企業のコンプラ\nイアンスを確保するために環境保護法と対策を改\n善するよう政府に促すことである。 その一方で、\nこのアプリは市民参加を強化し、市民がすべての\n購入を管理できるようにする。 \"",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://thaubing.gcaa.org.tw/blog/category/27"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "marketing",
+      "advocator",
+      "writer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Qollie",
+    "description": "転職サイトでの就職活動時に、他の人の企業ラン\nキングやコメントを見ることができるプラグイ\nン。",
+    "content": "主要就活プラットフォームのウェブページ上で、\n企業の評価や求人情報、労働法違反の記録などを\n同時に閲覧できるChromeブラウザのプラグイ\nン。 また、コメント欄が自動表示され、企業の採\n用ページにコメントを残したり、過去のコメント\nを閲覧することができます。 このプラグインは、\n労使が等しく十分かつ真正な情報を得ることがで\nきる、トランスペアレントな就職活動のエコシス\nテムを構築したいと考えています。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.qollie.com/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "LASS（ロケーション・アウェア・\nセンシング・システム）",
+    "description": "オープンソースと公共性の概念に基づき、LASS\nは大気と水質の監視に役立ちます。",
+    "content": "LASS（ロケーション・アウェア・センシング・\nシステム）は、センサー、インターネット・シス\nテム、ビッグデータの分析、ユーザー・インター\nフェースを含む包括的なオープンソースのアウェ\nア・センシング・オンライン・システムである。\nこのシステムは、リアルタイムで大気や水質を監\n視することができ、測定器によって測定されたす\nべてのデータは、一般市民がアクセスすることが\nできる。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://lass-net.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "engineer",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "コファクト",
+    "description": "リアルタイムでファクトチェックができるLINE\nボット。",
+    "content": "Cofactsは、台湾のオープンソースコミュニティの\nプロジェクトの1つとして、一般市民から協力を募\nり、チャットボットの技術を応用して、リアルタ\nイムのファクトチェックプラットフォームを構築\nし、ファクトチェックの技術的なサポートだけで\nなく、大量の情報や参考情報を一般市民に提供し\nている。 また、Cofactsはフェイクニュースをフ\nァクトチェックするたびに蓄積されるデータを\nCCライセンスで公開している。 また、ソースコ\nードも公開しており、ライセンスに従って利用す\nることができる。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "http://cofacts.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "writer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "MOEdic",
+    "description": "台湾のローカル言語をサポートするMOEdicは、\n北京語、台湾福建語、客家語などを含む無料のオ\nンライン辞書です。",
+    "content": "g0vのプロジェクトの一つであるMOEdicは、台\n湾語のデジタル辞書です。 収録項目のほとんど\nは、「台湾教育部による改訂北京語辞書」に由来\nしている。 標準中国語の16万項目に加え、台湾福\n建語の2万項目、客家語の1万4千項目がある。 中\n国語、英語、フランス語、ドイツ語の翻訳もあ\nる。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.moedict.tw/%E8%90%8C"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "writer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "ディスファクトリー",
+    "description": "農地の違法工場を匿名で通報できるシステム。",
+    "content": "Disfactoryは、Citizens of the Earth、台湾、g0v\nによって開発されたプロジェクトである。 市民が\n農地に違法工場があると思われる事例をシステム\nに報告すると、そのデータは管轄当局に転送され\nる。 市民は匿名のまま、通報の最新情報を把握\nし、政府に違法工場の規制を促すことができる。\nこのシステムの目的は、民主主義と法の支配を通\nじて、市民の権利、環境、食の安全を守ることで\nある。",
+    "links": [
+      {
+        "text": "農地違章工廠回報系統ディスファクトリー",
+        "url": "https://disfactory.tw/#map=14.00/120.48504632216294/24.088258816482295"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "designer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "オープンストリートマップ",
+    "description": "誰でも自由に描いて使える編集可能な地図。",
+    "content": "このプロジェクトのコンセプトは、ウィキペディ\nアに触発され、自由に描いて使える共同オンライ\nン地図を構築することです。 目標は、誰もが編集\nできる自由なコンテンツの世界地図を作ること\nだ。 当初、世界地図はGPSやノートパソコンなど\n様々な機器を使い、現地調査によって得られた情\n報をもとに作成されることが多かった。 その後、\n航空写真や衛星写真の技術も重要なデータ源とな\nった。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.openstreetmap.org/#map=7/23.611/120.768"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "オープンGLAM",
+    "description": "博物館のデータをオープンにしてデジタル化し、\n愛好家が合法的に資料を利用できるようにするプ\nロジェクト。",
+    "content": "Open GLAMプロジェクトはOpen Knowledge\nFoundationによって始められた。 ワークショッ\nプ、ガイドライン、文書、ワーキンググループを\n通じて、文化施設（アートギャラリー、図書館、\nアーカイブ、博物館など）のコンテンツや資料の\nデジタル化とオープン化を支援し、文化資産の共\n有リソースを構築することを目的としている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://okfn.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open data",
+    "tags": [
+      "designer",
+      "civil servants",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "BigBlueButton",
+    "description": "ユーザーがシステムをダウンロードする必要がな\nく、複数の学習管理システムと統合できるオープ\nンソースのオンライン会議システム。",
+    "content": "BBB(BigBlueButton)はオープンソースのソフトウ\nェアで、遠隔学習や音声/ビデオ会議による作業を\n実現する。 複数の学習システムと統合でき、テキ\nストメッセージ、グループディスカッション、ノ\nート共有、デジタルホワイトボードなどの機能を\n提供し、ブラウザ上で直接実行できる。 現在、フ\nランス政府が教育機関や公共部門に推奨している\nオンライン会議の開催ソリューションである。",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://bigbluebutton.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Firefox",
+    "description": "フリーでオープンなソースコードのブラウザ",
+    "content": "Mozilla Firefoxは、フリーでオープンなソースコ\nードを持つブラウザで、Mozilla Foundationとそ\nの子会社によって2004年に作成され、発売され\nた。 このブラウザの前身は、同じくMozillaコミ\nュニティによって作られた独立した「Phoenix\nBrowser」である。",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://www.mozilla.org/zh-TW/firefox/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "marketing",
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Inkscape",
+    "description": "An open-source vector graphics editor\nreleased under General Public License",
+    "content": "Inkscape is an open-source vector graphics editor\nreleased under the terms of the GNU General\nPublic License. In addition to graphics rendering,\nit can also be used for three-dimensional\nrendering and additional color services. It\ncurrently supports 27 languages ​​and multiple\noperating systems. The software uses Scalable\nVector Graphics (SVG) as a default, and can\nimport and export a variety of file formats",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://inkscape.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "LibreOffice",
+    "description": "A free and open-source office suite",
+    "content": "LibreOffice is a free and open-source office suite,\nwhose initial version was developed by The\nDocument Foundation in 2010. This suite includes\nsoftware for word processing, creating and\nediting of spreadsheets, slideshows, diagrams\nand graphics, database management, composing\nmathematical formulae, etc., and it supports the\nOpenDocument/ODF format.",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://zh-tw.libreoffice.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Linux Kernel",
+    "description": "An open-source operating system kernel that's\nsimilar to Unix.",
+    "content": "Linuxカーネルは、Unixに似たオープンソースのオ\nペレーティング・システム・カーネルである。\n1991年、フィンランドのハッカー、リーナス・ト\nーバルズがLinuxカーネルを作成し、Linuxカーネ\nル・プロジェクトを開始した。 現在までに12,000\n人以上のエンジニアがこのプロジェクトに従事し\nている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.kernel.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Notepad++",
+    "description": "An open-source text editor that supports\nmultiple languages and programming\nlanguages.",
+    "content": "Notepad++の作者/管理者は台湾人です。 一般公\n衆利用許諾契約（General Public License）の下で\nライセンスされているこのフリーでオープンソー\nスのソフトウェアは、複数の言語をサポートして\nいる。 テキストファイルの作成だけでなく、プロ\nグラミングエディターとしても機能する。\nNotepad++はカスタマイズされたホットキーをサ\nポートするだけでなく、シンタックスハイライ\nト、コードの折りたたみ、組み込みマクロの記録\nと再生といった機能も提供する。 さらに、複数の\nプラグインをサポートしています。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://notepad-plus-plus.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "OCF Lab",
+    "description": "OCF Labは、Open Culture Foundationによっ\nて設立された、オープンカルチャーに関する話題\nを扱うニュースプラットフォームです。",
+    "content": "OCF Labは、Open Culture Foundationによって\n設立されたニュースプラットフォームです。 オー\nプンソースコード、オープンガバメント、オープ\nンデータ、デジタルライツ、シビックテクノロジ\nーという5つの中核的な課題に焦点を当ててい\nる。 OCFラボは、隔週刊のレポートで、国内外\nの技術問題に関する記事を収集、翻訳、取材する\nことを通じて、社会の進歩を促進する重要な力と\nなっている。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://lab.ocf.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "designer",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "OPass",
+    "description": "台湾全土の主要なオープンソースグループが開催\nするシンポジウムで使用される登録アプリ",
+    "content": "OPassはもともと台湾オープンソース情報コミュ\nニティセミナーの登録アプリとして設計されまし\nた。 SITCON（学生情報技術会議）やCOSCUP\n（オープンソースコーダー・ユーザ・プロモータ\nー会議）でも何度も使用されています。 様々なイ\nベントのニーズに対応するため、統合プランが立\nち上がり、OPassが誕生しました。",
+    "links": [
+      {
+        "text": "OPass官方網站",
+        "url": "https://opass.app/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "civil servants",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Open Hack Farm",
+    "description": "「Open Hack Farm \"は、オープンソースとオー\nプンデータを農業に応用することを推進していま\nす。",
+    "content": "「Open Hack Farm \"は、オープンソースのソフト\nウェアとハードウェアを開発し、オープンデータ\nを農業に応用し、テクノロジーと科学的手法で環\n境に優しい農業の再利用を推進することを約束す\nるコミュニティである。 データを収集するための\n環境センサーの研究開発を通じて、Open Hack\nFarmはデータ分析を通じてデジタル農業カレンダ\nーを作成し、農家が環境に優しい農業を実現でき\nるよう支援している。 また、食材の生産過程をト\nレースし、消費者と生産者をモバイルデバイスで\n迅速につなぐシステムも開発した。",
+    "links": [
+      {
+        "text": "ウェブサイト",
+        "url": "https://www.openhackfarm.tw/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "civil servants",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Public Money Public Code",
+    "description": "公的資金で構築された公共のデジタルサービスや\nシステムは、オープンソースライセンスの下でリ\nリースされなければならないと提唱するイニシア\nチブ。",
+    "content": "\"Public Money Public Code \"は、2017年に \"Free\nSoftware Foundation Europe (FSFE) \"が立ち上げ\nたイニシアチブで、政府によって、公的資金で構\n築された公共のデジタルサービスやシステムは、\nそれらのデジタルサービスやシステムの新たな開\n発が既存のものの単なる繰り返しではなく、コラ\nボレーションを促進し、それによって誰もが利用\nできるようにするために、オープンソースライセ\nンスの下でリリースされなければならないと提唱\nしている。 このイニシアチブの公開書簡は、この\nシステムがすべての地域で適用されることを願\nい、一般市民に署名を呼びかけている。",
+    "links": [
+      {
+        "text": "FSFEの請願書",
+        "url": "https://publiccode.eu/en/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "marketing",
+      "legal",
+      "advocator"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Get to Know Open-Source License",
+    "description": "ライセンスはオープンソースにとって不可欠な要素です。\nそれによって人々がオープンソースソフトウェアを使用する自由が保証され、ソフトウェアを編集・リミックスする際にユーザーがどの程度の自由を持てるかが定められます。",
+    "content": "ライセンスはオープンソースを実現するために不可欠な要素です。「オープンライセンス」は著作権者が権利の一部のみを保持し、自身の作品を自由に、かつ無制限の目的で利用・改変・再配布できるようにします。オープンライセンスソフトウェアに付加される追加条件は、これらのオープンライセンスの基本原則を侵害してはなりません。ソースコードに用いられる代表的なライセンスには MIT や GPL などがあり、各ライセンスごとに条文内容が異なるため、再利用の自由度にも差があります。",
+    "links": [
+      {
+        "text": "Website of Open Source Initiative",
+        "url": "https://web.archive.org/web/20120222220933/http://www.opensource.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "writer",
+      "advocator",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "New Chewing",
+    "description": "「（New）Chewing」は、ボポモフォ入力で中国語の文字を入力できるように設計された、スマートなオープンソースシステムです。",
+    "content": "（New）Chewing は、中国語入力のためのスマートなオープンソースの音声入力方式です。1999 年にリリースされた有名な「Chewing」を発展させたもので、さまざまな OS や実行環境に対応するよう設計されています。多くのインテリジェントなオープンソース音声入力システムの要件を満たし、繁体字中国語ユーザーの間で広く利用されてきました。（New）Chewing はクロスプラットフォームでの相互運用性を特徴としており、複数のシステム上で動作できるだけでなく、複数の入力方式アーキテクチャをサポートします。",
+    "links": [
+      {
+        "text": "Website",
+        "url": "http://chewing.im/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "writer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "title": "Tor Browser",
+    "description": "ユーザーを匿名化できるだけでなく、機密データを自動的に削除する、安全性の高いブラウザです。",
+    "content": "Tor（The Onion Router の略称）は、インターネット上での匿名性を高めるオープンソースのブラウザであり、インターネット検閲の回避機能も備えています。ユーザーのデータ通信を暗号化し、ターゲットのウェブサイトに送信する前に三つの Tor ノードを経由させることで、経路を分散させます。これにより、ターゲットのウェブサイトは通信元を特定できず、三つのノードも同時に送信元と送信先の両方を把握できないため、インターネット上での通信の匿名性が実現されます。",
+    "links": [
+      {
+        "text": "Website",
+        "url": "https://www.torproject.org/"
+      }
+    ],
+    "type": "project",
+    "category": "open source",
+    "tags": [
+      "designer",
+      "engineer"
+    ],
+    "image": ""
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "engineer"
+    ],
+    "title": "エンジニア",
+    "description": "",
+    "image": "/images/uploads/工程師_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "designer"
+    ],
+    "title": "美術設計",
+    "description": "",
+    "image": "/images/uploads/美術設計_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "advocator"
+    ],
+    "title": "議題工作者",
+    "description": "",
+    "image": "/images/uploads/議題工作者_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "civil servants"
+    ],
+    "title": "公務人員",
+    "description": "",
+    "image": "/images/uploads/公務人員_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "writer"
+    ],
+    "title": "文字工作者",
+    "description": "",
+    "image": "/images/uploads/文字工作者_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "marketing"
+    ],
+    "title": "行銷公關",
+    "description": "",
+    "image": "/images/uploads/行銷公關_工作區域-1.png",
+    "content": "",
+    "links": []
+  },
+  {
+    "type": "job",
+    "category": "",
+    "tags": [
+      "legal"
+    ],
+    "title": "法務專家",
+    "description": "",
+    "image": "/images/uploads/法務專家_工作區域-1.png",
+    "content": "",
+    "links": []
+  }
+]
