@@ -912,6 +912,13 @@ code {
 .logo-image {
   margin-left: 1rem;
 }
+.site-footer .logo-image[alt='Flying Duck'] {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  margin-left: 0;
+  padding: 6px 10px;
+}
 .logo-margin {
   margin: 0 1rem;
 }

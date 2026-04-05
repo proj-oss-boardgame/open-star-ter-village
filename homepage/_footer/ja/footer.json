@@ -38,9 +38,11 @@
         "link_url": "https://www.code4japan.org/"
       },
       {
-        "alt_text": "Friedrich Naumann Foundation for Freedom1",
-        "image_url": "/images/uploads/logo__fnf.png",
-        "link_url": "https://www.freiheit.org/"
+        "alt_text": "Flying Duck",
+        "image_url": "/images/campaignpage/logo_flyingduck.png",
+        "width": 240,
+        "height": 44,
+        "link_url": "#"
       },
       {
         "alt_text": "Friedrich Naumann Foundation for Freedom2",
