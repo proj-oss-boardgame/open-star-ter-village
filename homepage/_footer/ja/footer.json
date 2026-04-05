@@ -32,23 +32,24 @@
     "supporters": [
       {
         "alt_text": "CFJ",
-        "image_url": "/images/campaignpage/logo_CFJ.png",
+        "image_url": "/images/campaignpage/logo_CFJ_white_horizontal.png",
+        "width": 200,
+        "height": 74,
         "link_url": "https://www.code4japan.org/"
       },
       {
-        "alt_text": "Friedrich Naumann Foundation for Freedom1",
-        "image_url": "/images/uploads/logo__fnf.png",
-        "link_url": "https://www.freiheit.org/"
+        "alt_text": "Flying Duck",
+        "image_url": "/images/campaignpage/logo_flyingduck.png",
+        "width": 240,
+        "height": 44,
+        "link_url": "#"
       },
       {
-        "alt_text": "Friedrich Naumann Foundation for Freedom2",
-        "image_url": "/images/uploads/logo__fnf.png",
-        "link_url": "https://www.freiheit.org/"
-      },
-      {
-        "alt_text": "Friedrich Naumann Foundation for Freedom3",
-        "image_url": "/images/uploads/logo__fnf.png",
-        "link_url": "https://www.freiheit.org/"
+        "alt_text": "CL1",
+        "image_url": "/images/campaignpage/logo_cl1.svg",
+        "width": 198,
+        "height": 155,
+        "link_url": "#"
       }
     ]
   }

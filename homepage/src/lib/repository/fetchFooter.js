@@ -19,11 +19,15 @@ export function fetchFooter(lang) {
       imageUrl: logo.image_url,
       altText: logo.alt_text,
       linkUrl: logo.link_url,
+      ...(logo.width != null ? { width: logo.width } : {}),
+      ...(logo.height != null ? { height: logo.height } : {}),
     })),
     supporters: (rawFooter.supporters ?? []).map((s) => ({
       imageUrl: s.image_url,
       altText: s.alt_text,
       linkUrl: s.link_url,
+      ...(s.width != null ? { width: s.width } : {}),
+      ...(s.height != null ? { height: s.height } : {}),
     })),
   };
   return footer;

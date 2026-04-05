@@ -12,7 +12,7 @@ const Logo = ({ title, altText, src, dimension, link }) => (
         height={dimension.height}
         width={dimension.width}
         style={{
-          objectFit: 'cover',
+          objectFit: 'contain',
         }}
       />
     </Link>

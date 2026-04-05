@@ -4,7 +4,11 @@ import FooterLinks from './footerLinks';
 
 const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
   return (
-    <div className="site-footer" id="footer">
+    <div
+      className="site-footer"
+      id="footer"
+      style={{ background: '#333', color: '#fff', padding: '20px', textAlign: 'center' }}
+    >
       <div className="container footer-main">
         <FooterLinks links={links} />
         <span>{siteData.title}</span>
@@ -16,7 +20,10 @@ const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
               title={logo.title}
               altText={logo.altText}
               src={logo.imageUrl}
-              dimension={{ width: 163, height: 45 }}
+              dimension={{
+                width: logo.width || 163,
+                height: logo.height || 45,
+              }}
               link={logo.linkUrl}
             />
           ))}
@@ -27,7 +34,10 @@ const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
               key={logo.altText}
               altText={logo.altText}
               src={logo.imageUrl}
-              dimension={{ width: 163, height: 45 }}
+              dimension={{
+                width: logo.width || 163,
+                height: logo.height || 45,
+              }}
               link={logo.linkUrl}
             />
           ))}

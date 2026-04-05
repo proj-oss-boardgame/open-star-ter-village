@@ -1,0 +1,7 @@
+[build]
+  base = "homepage"
+  command = "next build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "20.18.0"
