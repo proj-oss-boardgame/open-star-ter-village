@@ -16,7 +16,10 @@ const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
               title={logo.title}
               altText={logo.altText}
               src={logo.imageUrl}
-              dimension={{ width: 163, height: 45 }}
+              dimension={{
+                width: logo.width || 163,
+                height: logo.height || 45,
+              }}
               link={logo.linkUrl}
             />
           ))}
@@ -27,7 +30,10 @@ const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
               key={logo.altText}
               altText={logo.altText}
               src={logo.imageUrl}
-              dimension={{ width: 163, height: 45 }}
+              dimension={{
+                width: logo.width || 163,
+                height: logo.height || 45,
+              }}
               link={logo.linkUrl}
             />
           ))}

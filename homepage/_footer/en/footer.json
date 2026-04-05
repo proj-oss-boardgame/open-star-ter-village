@@ -31,7 +31,9 @@
     "supporters": [
       {
         "alt_text": "CFJ",
-        "image_url": "/images/campaignpage/logo_CFJ.png",
+        "image_url": "/images/campaignpage/logo_CFJ_white_horizontal.png",
+        "width": 200,
+        "height": 74,
         "link_url": "https://www.code4japan.org/"
       },
       {
