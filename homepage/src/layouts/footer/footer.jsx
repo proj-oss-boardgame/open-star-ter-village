@@ -4,7 +4,11 @@ import FooterLinks from './footerLinks';
 
 const Footer = ({ siteData, links = [], logos = [], supporters = [] }) => {
   return (
-    <div className="site-footer" id="footer">
+    <div
+      className="site-footer"
+      id="footer"
+      style={{ background: '#333', color: '#fff', padding: '20px', textAlign: 'center' }}
+    >
       <div className="container footer-main">
         <FooterLinks links={links} />
         <span>{siteData.title}</span>

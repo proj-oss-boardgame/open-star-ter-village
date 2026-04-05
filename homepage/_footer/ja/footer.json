@@ -50,9 +50,11 @@
         "link_url": "https://www.freiheit.org/"
       },
       {
-        "alt_text": "Friedrich Naumann Foundation for Freedom3",
-        "image_url": "/images/uploads/logo__fnf.png",
-        "link_url": "https://www.freiheit.org/"
+        "alt_text": "CL1",
+        "image_url": "/images/campaignpage/logo_cl1.svg",
+        "width": 220,
+        "height": 155,
+        "link_url": "#"
       }
     ]
   }
