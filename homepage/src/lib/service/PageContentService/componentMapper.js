@@ -100,10 +100,11 @@ export const componentMapper = (layout, cards = []) => {
       // filter cards by card_tags
       if (layout.card_tags && layout.card_tags.length > 0) {
         filteredCards = filteredCards.filter((card) =>
-          layout.card_tags.every((tag) => card.data.tags?.includes(tag)),
+        layout.card_tags.every((tag) => card.data.category === tag || card.data.tags?.includes(tag))
         );
       }
 
+      
       type = componentTypes.Cards;
       props = {
         id: titleToAnchorId(layout.title),

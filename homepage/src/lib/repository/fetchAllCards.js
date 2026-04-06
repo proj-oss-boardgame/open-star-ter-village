@@ -14,18 +14,43 @@ function getCardDirectoryPath(lang) {
   return join(cardsDirectory, lang);
 }
 
+
+
 export function fetchAllCards(lang) {
-  const cardsDirectory = getCardDirectoryPath(lang);
-  const filesInCards = fs.readdirSync(cardsDirectory);
+  // const cardsDirectory = getCardDirectoryPath(lang);
+  // const filesInCards = fs.readdirSync(cardsDirectory);
 
-  const cards = filesInCards.map((filename) => {
-    const fullPath = join(cardsDirectory, filename);
-    const file = fs.readFileSync(fullPath, 'utf8');
-    const matterFile = matter(file);
-    const { data, content } = matterFile;
+  const raw = fs.readFileSync(join(process.cwd(), 'figma-cards-output.json'), 'utf8');
+    // console.log(raw)
+  const jsonCards = JSON.parse(raw);
+  // console.log(jsonCards)
 
-    return { data, content };
+    const cards = jsonCards.map((card) => {
+    const  data = {
+      title: card.title,
+      description: card.description,
+      type: card.type,
+      category: card.category,
+      image: card.image ?? '',
+      tags: card.tags,
+      links: card.links ?? [],
+    };
+    const content = card.content ?? '';
+
+    return {data, content};
   });
 
+
   return cards.map((card) => processCard(card, cards));
+
+  // const cards = filesInCards.map((filename) => {
+  //   const fullPath = join(cardsDirectory, filename);
+  //   const file = fs.readFileSync(fullPath, 'utf8');
+  //   const matterFile = matter(file);
+  //   const { data, content } = matterFile;
+
+  //   return { data, content };
+  // });
+
+  // return cards.map((card) => processCard(card, cards));
 }
