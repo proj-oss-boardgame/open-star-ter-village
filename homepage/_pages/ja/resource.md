@@ -86,36 +86,11 @@ layout_list:
 
           </details>
         title: ""
-  - type: layout_image_text
-    title: 実物ボードゲームの貸出
-    text: 開封したくて待ちきれないですか？[OCFへメール](mailto:hi@ocf.tw)
-      専用スタッフが無料レンタル申請のサポートを行います。レンタル規約を確認してください（現在は台湾本島内のみ中国語版ボードゲームを貸し出し、台湾本島内限定）。
-    image: /images/uploads/boardgame.jpg
   - type: layout_section
     title: オンライン版ボードゲームで一緒に遊ぼう！
     columns:
       - text: 現在、仲間を募集中です。あなたがボードゲームが好きで、オープンソースプロジェクトに挑戦したい友人なら、私たちと一緒にオンライン版開発に参加してください。
         title: ""
-  - type: layout_section
-    title: 多様な参加、全体体験｜イベント予告
-    columns:
-      - title: 開源星手村普及者のオンライン共有会
-        image: /images/uploads/new.jpg
-        text: >-
-          私たちは、さまざまな分野の人々がオープンソース文化を理解する手助けをし、より多様な貢献者を増やして、健全なオープンソースエコシステムを築くことを目指しています。
-
-
-          このオンラインワークショップでは、OCFがいかにして《開源星手村》を通じてオープンソース文化を広めるか、普及戦略の立て方、強み、そして直面する課題について議論します。
-
-
-          オープンソース文化を広げるすべての仲間を心より招待し、推進の道の中での苦労と喜びを気軽に語り合いましょう。
-
-
-          1. 開催日時：10/13 20:00〜21:30（台湾時間 UTC+8）
-
-          2. このワークショップには世界各地から推進者を招待するため、英語で実施します。
-
-          3. [イベントに申し込む](https://docs.google.com/forms/d/e/1FAIpQLSfsD48X2DeW-qjf8efCc0Crii7rqMUCQVy0kaUlsTly1VSr6A/viewform)
   - type: layout_section
     title: FAQ
     columns:
@@ -144,7 +119,7 @@ layout_list:
 
           OCFへのレンタルでは足りない場合は、ここから《開源星手村》のすべての[画像素材](https://drive.google.com/drive/u/0/folders/1s310aQt275ZfAGehaedHj7VvFubu4bqv)をダウンロードして、自分で印刷し、オリジナル版を作ってください！
   - type: layout_section
-    title: プロジェクトに参加し、台湾の未来を作る
+    title: プロジェクトに参加し、日本の未来を 作る
     columns:
       - title: ""
         subtitle: 次の世代のための日常メモ
@@ -174,7 +149,7 @@ layout_list:
 
 
 
-          台湾の未来には、あなたの参加が必要です。
+          日本の未来には、あなたの参加が必要です。
 
 
           いま、この瞬間、私たちは欠席してはならない。
