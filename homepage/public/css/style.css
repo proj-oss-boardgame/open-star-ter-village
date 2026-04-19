@@ -77,7 +77,8 @@ body {
   margin: 0;
   background: #fafafe;
 }
-.banner .banner-details span {
+.banner .banner-details span,
+.banner .banner-details .banner-subtitle p {
   font-size: 25px;
   margin-bottom: 20px;
   text-shadow: 1px 1px 4px #333;
@@ -1013,7 +1014,8 @@ code {
     font-size: 34px;
     margin-bottom: 10px;
   }
-  .banner .banner-details span {
+  .banner .banner-details span,
+  .banner .banner-details .banner-subtitle p {
     font-size: 19px;
     margin-bottom: 0;
   }

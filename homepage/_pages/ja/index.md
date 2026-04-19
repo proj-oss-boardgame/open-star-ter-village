@@ -6,7 +6,8 @@ layout_list:
   - type: layout_banner
     title: OSSクエスト
     subtitle: |-
-      オープンソースって何？ボードゲームで体験しよう。
+      「オープンソースって何？」ボードゲームで体験しよう。
+
       オープンソース、テクノロジー、協働で世界を一緒に変えよう。
     highlights:
       - ワーカー配置
