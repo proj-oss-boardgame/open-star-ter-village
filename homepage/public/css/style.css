@@ -904,13 +904,22 @@ code {
   transform: scale(1.1) !important;
 }
 .logos {
+  align-items: center;
+  gap: 0.5rem;
 }
 .logo-title {
-  border-right: 1px solid #ffffff;
-  padding-right: 1rem;
+  border-right: 0;
+  font-weight: 700;
+  margin-right: 0.25rem;
+  padding-right: 0;
+  white-space: nowrap;
+}
+.logo-title::after {
+  content: ':';
+  margin-left: 0.2rem;
 }
 .logo-image {
-  margin-left: 1rem;
+  margin-left: 0;
 }
 .site-footer .logo-image[alt='Flying Duck'] {
   background: #ffffff;
@@ -922,14 +931,44 @@ code {
 .site-footer .logo-image[alt='CL1'] {
   background: rgba(255, 255, 255, 0.82);
   border: 0;
-  border-radius: 12px;
+  border-radius: 14px;
   box-shadow: 0 3px 10px rgba(0, 0, 0, 0.28);
   filter: none;
   margin-left: 0;
-  padding: 1px 3px;
+  padding: 3px 6px;
 }
 .logo-margin {
-  margin: 0 1rem;
+  margin: 0 0.5rem;
+}
+.footer-logo-group-title {
+  color: #ef5826;
+  font-size: clamp(1rem, 1.6vw, 1.3rem);
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 0.4rem 0 0.2rem;
+}
+.footer-localized-grid {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  gap: 0.25rem;
+  width: 100%;
+}
+.footer-localized-block {
+  align-items: center;
+  display: flex;
+  flex: 0 1 auto;
+  justify-content: center;
+  padding: 0 1rem;
+}
+.footer-block-label {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+}
+.footer-block-logos {
+  gap: 0.5rem;
 }
 .avatar {
   margin: 0.5rem auto;
@@ -998,6 +1037,18 @@ code {
   .logos {
     flex-wrap: wrap;
   }
+  .footer-localized-grid {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .footer-localized-block {
+    max-width: 100%;
+    min-height: auto;
+    width: 100%;
+  }
+  .footer-block-label {
+    font-size: 1.1rem;
+  }
 }
 @media only screen and (max-width: 568px) {
   .photos-page-list .item {
@@ -1036,6 +1087,16 @@ code {
   }
   .text-wrap-md {
     white-space: normal;
+  }
+  .footer-localized-block {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer-block-label {
+    width: 100%;
+    margin-bottom: 0.3rem;
+    margin-right: 0;
+    text-align: center;
   }
 }
 @media only screen and (max-width: 480px) {
