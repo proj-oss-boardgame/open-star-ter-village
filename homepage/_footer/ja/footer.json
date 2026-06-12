@@ -49,11 +49,11 @@
         "link_url": "https://www.flying-duck.co.jp/"
       },
       {
-        "alt_text": "CL1",
+        "alt_text": "Pleasanter",
         "title": "スポンサー",
-        "image_url": "/images/campaignpage/logo_cl1.svg",
-        "width": 198,
-        "height": 155,
+        "image_url": "/images/campaignpage/logo_cl2.svg",
+        "width": 280,
+        "height": 60,
         "link_url": "https://pleasanter.org/"
       }
     ]
