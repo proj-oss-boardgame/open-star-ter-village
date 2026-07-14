@@ -13,7 +13,7 @@ const useRouteChangeComplete = (callback) => {
     return () => {
       router.events.off('routeChangeComplete', callback);
     };
-  }, [router.events]);
+  }, [callback, router.events]);
 };
 
 const siteDataDictionary = {
