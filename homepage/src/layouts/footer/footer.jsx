@@ -39,7 +39,7 @@ const Footer = ({
         <span>{siteData.title}</span>
         <SocialMedia />
         {logos.length > 0 && (
-          <div className="footer-logo-group">
+          <div className="footer-logo-group footer-logo-group--original">
             {originalVersionLabel && <div className="footer-logo-group-title">{originalVersionLabel}</div>}
             <div className="d-flex justify-content-center logos margin-2-percent">
               {logos.map((logo) => (
@@ -59,7 +59,7 @@ const Footer = ({
           </div>
         )}
         {supporters.length > 0 && (
-          <div className="footer-logo-group">
+          <div className="footer-logo-group footer-logo-group--localized">
             {localizedVersionLabel && <div className="footer-logo-group-title">{localizedVersionLabel}</div>}
             {hasSupporterTitles ? (
               <div className="footer-localized-grid margin-2-percent">

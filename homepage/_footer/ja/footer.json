@@ -35,25 +35,25 @@
       {
         "title": "主催",
         "alt_text": "CFJ",
-        "image_url": "/images/campaignpage/logo_CFJ.png",
-        "width": 142,
-        "height": 52,
+        "image_url": "/images/campaignpage/logo_CFJ_landscape_w.png",
+        "width": 390,
+        "height": 116,
         "link_url": "https://www.code4japan.org/"
       },
       {
         "title": "スポンサー",
         "alt_text": "Flying Duck",
         "image_url": "/images/campaignpage/logo_flyingduck.png",
-        "width": 320,
-        "height": 60,
+        "width": 390,
+        "height": 72,
         "link_url": "https://www.flying-duck.co.jp/"
       },
       {
         "alt_text": "Pleasanter",
         "title": "スポンサー",
         "image_url": "/images/campaignpage/logo_cl2.svg",
-        "width": 280,
-        "height": 60,
+        "width": 460,
+        "height": 96,
         "link_url": "https://pleasanter.org/"
       }
     ]
