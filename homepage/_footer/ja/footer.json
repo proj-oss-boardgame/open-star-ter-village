@@ -1,6 +1,8 @@
 
 {
   "footer": {
+    "original_version_label": "オリジナル版",
+    "localized_version_label": "日本語版",
     "links": [
       {
         "display_text": "ボードゲームをレンタル",
@@ -31,24 +33,27 @@
     ],
     "supporters": [
       {
+        "title": "主催",
         "alt_text": "CFJ",
-        "image_url": "/images/campaignpage/logo_CFJ_white_horizontal.png",
-        "width": 200,
-        "height": 74,
+        "image_url": "/images/campaignpage/logo_CFJ_landscape_w.png",
+        "width": 390,
+        "height": 116,
         "link_url": "https://www.code4japan.org/"
       },
       {
+        "title": "スポンサー",
         "alt_text": "Flying Duck",
         "image_url": "/images/campaignpage/logo_flyingduck.png",
-        "width": 240,
-        "height": 44,
+        "width": 390,
+        "height": 72,
         "link_url": "https://www.flying-duck.co.jp/"
       },
       {
-        "alt_text": "CL1",
-        "image_url": "/images/campaignpage/logo_cl1.svg",
-        "width": 198,
-        "height": 155,
+        "alt_text": "Pleasanter",
+        "title": "スポンサー",
+        "image_url": "/images/campaignpage/logo_cl2.svg",
+        "width": 460,
+        "height": 96,
         "link_url": "https://pleasanter.org/"
       }
     ]

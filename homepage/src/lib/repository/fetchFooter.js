@@ -10,6 +10,12 @@ export function fetchFooter(lang) {
 
   const rawFooter = JSON.parse(file).footer;
   const footer = {
+    ...(rawFooter.original_version_label
+      ? { originalVersionLabel: rawFooter.original_version_label }
+      : {}),
+    ...(rawFooter.localized_version_label
+      ? { localizedVersionLabel: rawFooter.localized_version_label }
+      : {}),
     links: rawFooter.links.map((link) => ({
       displayText: link.display_text,
       url: link.url,
@@ -23,6 +29,7 @@ export function fetchFooter(lang) {
       ...(logo.height != null ? { height: logo.height } : {}),
     })),
     supporters: (rawFooter.supporters ?? []).map((s) => ({
+      ...(s.title ? { title: s.title } : {}),
       imageUrl: s.image_url,
       altText: s.alt_text,
       linkUrl: s.link_url,

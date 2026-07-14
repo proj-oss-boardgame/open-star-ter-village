@@ -904,32 +904,159 @@ code {
   transform: scale(1.1) !important;
 }
 .logos {
+  align-items: center;
+  gap: 0.5rem;
 }
 .logo-title {
-  border-right: 1px solid #ffffff;
-  padding-right: 1rem;
+  border-right: 0;
+  font-weight: 700;
+  margin-right: 0.25rem;
+  padding-right: 0;
+  white-space: nowrap;
+}
+.logo-title::after {
+  content: ':';
+  margin-left: 0.2rem;
 }
 .logo-image {
-  margin-left: 1rem;
+  display: block;
+  margin-left: 0;
 }
 .site-footer .logo-image[alt='Flying Duck'] {
   background: #ffffff;
+  box-sizing: content-box;
   border-radius: 8px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  height: 72px !important;
   margin-left: 0;
-  padding: 6px 10px;
+  width: auto !important;
+  object-fit: contain !important;
+  padding: 10px 28px;
 }
-.site-footer .logo-image[alt='CL1'] {
-  background: rgba(255, 255, 255, 0.82);
-  border: 0;
-  border-radius: 12px;
-  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.28);
-  filter: none;
+.site-footer .logo-image[alt='CFJ'] {
+  height: 108px !important;
   margin-left: 0;
-  padding: 1px 3px;
+  object-fit: contain !important;
+  width: auto !important;
+}
+.site-footer .logo-image[alt='Pleasanter'] {
+  background: #ffffff;
+  border: 0;
+  box-sizing: border-box;
+  border-radius: 8px;
+  clip-path: inset(0 round 8px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+  filter: none;
+  height: 96px !important;
+  margin-left: 0;
+  object-fit: cover !important;
+  object-position: center;
+  padding: 0;
+  transform: scale(1.28);
+  transform-origin: center;
 }
 .logo-margin {
-  margin: 0 1rem;
+  margin: 0 0.5rem;
+}
+.footer-logo-group-title {
+  color: #ef5826;
+  font-size: clamp(1rem, 1.6vw, 1.3rem);
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 0.4rem 0 0.2rem;
+}
+.site-footer .footer-logo-group {
+  margin-top: 0.35rem;
+}
+.site-footer .footer-logo-group-title {
+  margin: 0.2rem 0 0.4rem;
+}
+.site-footer .footer-logo-group--original {
+  margin-top: 3.2rem;
+}
+.site-footer .footer-logo-group--original .footer-logo-group-title {
+  margin-top: 0;
+}
+.site-footer .footer-logo-group--localized .footer-logo-group-title {
+  margin-bottom: -1.6rem;
+}
+.site-footer .footer-logo-group .logos.margin-2-percent {
+  margin: 0.3rem auto 0.75rem;
+}
+.site-footer .footer-localized-grid.margin-2-percent {
+  margin: 0.25rem auto 0;
+}
+.site-footer .footer-logo-group--localized .footer-localized-grid.margin-2-percent {
+  margin-top: -1.4rem;
+}
+.site-footer .footer-logo-group--localized .footer-localized-grid {
+  column-gap: 0.75rem;
+  row-gap: 0.2rem;
+}
+.footer-localized-grid {
+  display: flex;
+  align-items: stretch;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+  width: 100%;
+}
+.footer-localized-block {
+  --footer-label-width: 9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex: 0 1 auto;
+  justify-content: center;
+  padding: 0 1rem;
+}
+.footer-localized-block::after {
+  content: '';
+  display: block;
+  margin-left: 0.5rem;
+  width: var(--footer-label-width);
+}
+.footer-block-label {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 0;
+  margin-right: 1rem;
+  text-align: right;
+  width: var(--footer-label-width);
+  white-space: nowrap;
+}
+.footer-block-logos {
+  gap: 0.25rem;
+  justify-content: center;
+  margin-left: 0.2rem;
+}
+.site-footer .footer-logo-group--localized .footer-localized-block:last-child {
+  flex-direction: column;
+}
+.site-footer .footer-logo-group--localized .footer-localized-block:last-child::after {
+  content: none;
+}
+.site-footer .footer-logo-group--localized .footer-localized-block:last-child .footer-block-label {
+  margin-bottom: 0.25rem;
+  margin-right: 0;
+  text-align: center;
+  width: auto;
+}
+.site-footer .footer-logo-group--localized .footer-localized-block:last-child .footer-block-logos {
+  margin-left: 0;
+}
+.site-footer .footer-block-logos .logo-margin a[href^='https://pleasanter.org'] {
+  border-radius: 8px;
+  display: block;
+  overflow: hidden;
+}
+.footer-block-logos .logo-margin a {
+  line-height: 0;
+}
+.footer-block-logos .logo-margin {
+  flex-shrink: 0;
+  margin: 0 0.2rem;
 }
 .avatar {
   margin: 0.5rem auto;
@@ -998,6 +1125,18 @@ code {
   .logos {
     flex-wrap: wrap;
   }
+  .footer-localized-grid {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+  .footer-localized-block {
+    max-width: 100%;
+    min-height: auto;
+    width: 100%;
+  }
+  .footer-block-label {
+    font-size: 1rem;
+  }
 }
 @media only screen and (max-width: 568px) {
   .photos-page-list .item {
@@ -1036,6 +1175,53 @@ code {
   }
   .text-wrap-md {
     white-space: normal;
+  }
+  .footer-localized-block {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer-localized-block::after {
+    content: none;
+    margin-left: 0;
+    width: 0;
+  }
+  .footer-block-logos {
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 0.25rem;
+    width: 100%;
+  }
+  .footer-block-logos .logo-margin {
+    flex-shrink: 1;
+    margin: 0.15rem 0;
+    max-width: 100%;
+    width: 100%;
+  }
+  .footer-block-logos .logo-margin a {
+    display: block;
+    width: 100%;
+  }
+  .site-footer .footer-block-logos .logo-image[alt='Flying Duck'] {
+    box-sizing: border-box;
+    height: auto !important;
+    max-width: 420px;
+    width: 100% !important;
+  }
+  .site-footer .footer-block-logos .logo-image[alt='Pleasanter'] {
+    aspect-ratio: 5 / 1;
+    box-sizing: border-box;
+    clip-path: inset(0 round 8px);
+    height: auto !important;
+    max-width: 420px;
+    object-fit: cover !important;
+    padding: 0;
+    width: 100% !important;
+  }
+  .footer-block-label {
+    width: 100%;
+    margin-bottom: 0.3rem;
+    margin-right: 0;
+    text-align: center;
   }
 }
 @media only screen and (max-width: 480px) {
