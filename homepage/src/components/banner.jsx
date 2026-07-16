@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import SocialMedia from './socialMedia';
+import { ParseMarkdownAndHtml } from './parseMarkdownAndHtml';
 
 const Banner = ({ id, heroImage, title, subtitle = '', highlights = [] }) => (
   <div className="banner" id={id}>
@@ -14,7 +15,9 @@ const Banner = ({ id, heroImage, title, subtitle = '', highlights = [] }) => (
     <div className="container">
       <div className="banner-details">
         <h1>{title}</h1>
-        <span>{subtitle}</span>
+        <div className="banner-subtitle">
+          <ParseMarkdownAndHtml markdown={true}>{subtitle}</ParseMarkdownAndHtml>
+        </div>
         <ul className="sub-data">
           {highlights.map((highlight) => (
             <li key={`sub-data-${highlight}`}>{highlight}</li>
